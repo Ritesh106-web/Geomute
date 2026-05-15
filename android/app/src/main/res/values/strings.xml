@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoMute</string>
+    <string name="notification_channel_name">GeoMute Service</string>
+    <string name="notification_channel_description">Background location monitoring for automatic sound control</string>
+    <string name="service_notification_title">GeoMute Active</string>
+    <string name="service_notification_text">Monitoring location for silent zones</string>
+</resources>
